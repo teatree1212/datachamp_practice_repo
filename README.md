@@ -12,3 +12,5 @@ basics- computer and internet  - that's it
 
 ## Links
 [MoAssem Repo link](https://github.com/MoAssem/friendly-collab-party)
+
+[[embed url=http://140.247.98.17/index.html?size=1&mode=3]]
