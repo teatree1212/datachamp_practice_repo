@@ -9,3 +9,5 @@ Small team of 1 person, joing me (: - still lonely
 
 ## Setup Requirements
 basics- computer and internet  - that's it
+
+## Links
