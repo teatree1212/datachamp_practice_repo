@@ -2,10 +2,10 @@
 Repo to go through steps during github intro
 
 ## About
-just a sentence.
+just a sentence. And a bit more now
 
 ## Team
-Small team of 1 person, joing me (:
+Small team of 1 person, joing me (: - still lonely
 
 ## Setup Requirements
-basics- computer and internet
+basics- computer and internet  - that's it
